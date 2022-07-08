@@ -12,6 +12,7 @@ body {
   flex-direction: column;
   font-family: 'Roboto', sans-serif;
   margin: 0;
+  overflow-x: hidden;
 }
 
 h1 {
